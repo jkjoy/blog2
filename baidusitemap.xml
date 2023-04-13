@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/</loc>
-    <lastmod>2023-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.loliko.cn/2019/about/</loc>
-    <lastmod>2023-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.loliko.cn/2017/cloud-torrent-for-centos-one-click-installation/</loc>
-    <lastmod>2023-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://blog.loliko.cn/2017/proposal-battle/</loc>
     <lastmod>2023-04-13</lastmod>
   </url>
@@ -93,10 +81,6 @@
     <lastmod>2023-04-13</lastmod>
   </url>
   <url>
-    <loc>https://blog.loliko.cn/2022/local-installation-package-command-under-linux/</loc>
-    <lastmod>2023-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://blog.loliko.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/</loc>
     <lastmod>2023-04-13</lastmod>
   </url>
@@ -126,6 +110,22 @@
   </url>
   <url>
     <loc>https://blog.loliko.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/</loc>
+    <lastmod>2023-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/</loc>
+    <lastmod>2023-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.loliko.cn/2019/about/</loc>
+    <lastmod>2023-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.loliko.cn/2017/cloud-torrent-for-centos-one-click-installation/</loc>
+    <lastmod>2023-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.loliko.cn/2022/local-installation-package-command-under-linux/</loc>
     <lastmod>2023-04-13</lastmod>
   </url>
   <url>
