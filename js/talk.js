@@ -73,15 +73,21 @@ function getNextList() {
     }
     )
 }
-function meNums() {
-    var e = memos + "api/memo/stats?creatorId=" + bbMemo.creatorId;
-    fetch(e).then(e=>e.json()).then(e=>{
-        if (e.data) {
-            document.getElementById("memonums").innerHTML = e.data
+//获取 Memos 总条数
+function getTotal() {
+    var totalUrl = "https://memos.example.com/api/memo/stats?creatorId=101"
+    fetch(totalUrl).then(res => res.json()).then(resdata => {
+        if (resdata.data) {
+            var allnums = resdata.data.length
+            var memosCount = document.getElementById('total');
+            memosCount.innerHTML = allnums;
         }
-    }
-    )
-}
+    }).catch(err => {
+        // Do something for an error here
+    });
+};
+window.onload = getTotal();
+
 function updateHTMl(e) {
     var t = ""
       , o = "";
