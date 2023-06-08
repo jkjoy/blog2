@@ -75,7 +75,7 @@ function getNextList() {
 }
 //获取 Memos 总条数
 function getTotal() {
-    var totalUrl = "https://memos.example.com/api/memo/stats?creatorId=101"
+    var totalUrl = memos + "api/memo/stats?creatorId=" + memo.creatorId
     fetch(totalUrl).then(res => res.json()).then(resdata => {
         if (resdata.data) {
             var allnums = resdata.data.length
