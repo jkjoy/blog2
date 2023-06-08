@@ -74,7 +74,7 @@ function getNextList() {
     )
 }
 function meNums() {
-    var e = memos + "api/memo/amount?creatorId=" + bbMemo.creatorId;
+    var e = memos + "api/memo/stats?creatorId=" + bbMemo.creatorId;
     fetch(e).then(e=>e.json()).then(e=>{
         if (e.data) {
             document.getElementById("memonums").innerHTML = e.data
