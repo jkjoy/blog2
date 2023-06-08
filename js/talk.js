@@ -31,7 +31,7 @@ var bbDom = document.querySelector(bbMemo.domId);
 var load = '<div class="bb-load"><button class="load-btn button-load">加载中……</button></div>';
 if (bbDom) {
     getFirstList();
-    meNums();
+    allnums();
     var btn = document.querySelector("button.button-load");
     btn.addEventListener("click", function() {
         btn.textContent = "加载中……";
