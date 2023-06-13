@@ -6,7 +6,7 @@
   <link href="https://blog.loliko.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.loliko.cn/"/>
-  <updated>2023-06-13T07:44:38.719Z</updated>
+  <updated>2023-06-13T08:04:29.075Z</updated>
   <id>https://blog.loliko.cn/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用Memos实现博客的说说页面</title>
+    <link href="https://blog.loliko.cn/2023/use-memos-to-realize-the-blog-talk-page/"/>
+    <id>https://blog.loliko.cn/2023/use-memos-to-realize-the-blog-talk-page/</id>
+    <published>2023-06-13T15:57:00.000Z</published>
+    <updated>2023-06-13T08:04:29.075Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;新建一个页面&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="memos" scheme="https://blog.loliko.cn/tags/memos/"/>
+    
+    <category term="Hexo" scheme="https://blog.loliko.cn/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>给Memos添加Artalk评论</title>
     <link href="https://blog.loliko.cn/2023/add-artalk-comments-to-memos/"/>
     <id>https://blog.loliko.cn/2023/add-artalk-comments-to-memos/</id>
     <published>2023-06-13T06:25:30.714Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
     <summary type="html">...</summary>
@@ -40,7 +68,7 @@
     <link href="https://blog.loliko.cn/2023/add-twikoo-comments-to-memos/"/>
     <id>https://blog.loliko.cn/2023/add-twikoo-comments-to-memos/</id>
     <published>2023-06-13T05:40:54.534Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
     <summary type="html">...</summary>
@@ -61,7 +89,7 @@
     <link href="https://blog.loliko.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/"/>
     <id>https://blog.loliko.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/</id>
     <published>2023-05-18T08:23:20.354Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
     <summary type="html">...</summary>
@@ -124,7 +152,7 @@
     <link href="https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/"/>
     <id>https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/</id>
     <published>2023-04-07T08:34:41.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
       
@@ -195,7 +223,7 @@
     <link href="https://blog.loliko.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/"/>
     <id>https://blog.loliko.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/</id>
     <published>2022-11-15T13:07:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
       
@@ -223,7 +251,7 @@
     <link href="https://blog.loliko.cn/2022/vk23-black-apple-opencore085-guide-macos1261/"/>
     <id>https://blog.loliko.cn/2022/vk23-black-apple-opencore085-guide-macos1261/</id>
     <published>2022-11-08T14:23:36.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.075Z</updated>
     
     
       
@@ -245,7 +273,7 @@
     <link href="https://blog.loliko.cn/2022/nec-vk23t-comparison-experience-vk22t/"/>
     <id>https://blog.loliko.cn/2022/nec-vk23t-comparison-experience-vk22t/</id>
     <published>2022-11-08T14:02:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -272,7 +300,7 @@
     <link href="https://blog.loliko.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/"/>
     <id>https://blog.loliko.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/</id>
     <published>2022-10-21T14:58:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -293,7 +321,7 @@
     <link href="https://blog.loliko.cn/2022/office2016-mac-version-download-install-crack-activation/"/>
     <id>https://blog.loliko.cn/2022/office2016-mac-version-download-install-crack-activation/</id>
     <published>2022-10-14T08:25:18.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -319,7 +347,7 @@
     <link href="https://blog.loliko.cn/2022/typecho-plug-in-commentsbyqq-modified-version/"/>
     <id>https://blog.loliko.cn/2022/typecho-plug-in-commentsbyqq-modified-version/</id>
     <published>2022-09-19T14:25:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -346,7 +374,7 @@
     <link href="https://blog.loliko.cn/2022/macos-lock-screen-clock-fliqlo/"/>
     <id>https://blog.loliko.cn/2022/macos-lock-screen-clock-fliqlo/</id>
     <published>2022-08-08T09:14:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -374,7 +402,7 @@
     <link href="https://blog.loliko.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/"/>
     <id>https://blog.loliko.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/</id>
     <published>2022-07-29T15:33:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -421,7 +449,7 @@
     <link href="https://blog.loliko.cn/2022/jingyue-h97i-gmain-black-apple-guide/"/>
     <id>https://blog.loliko.cn/2022/jingyue-h97i-gmain-black-apple-guide/</id>
     <published>2022-07-22T09:32:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -450,7 +478,7 @@
     <link href="https://blog.loliko.cn/2022/nec-vk22t-black-apple-oc080-guide-macos124/"/>
     <id>https://blog.loliko.cn/2022/nec-vk22t-black-apple-oc080-guide-macos124/</id>
     <published>2022-06-01T08:33:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
+    <updated>2023-06-13T08:04:29.071Z</updated>
     
     
       
@@ -473,36 +501,6 @@
     <category term="vk22" scheme="https://blog.loliko.cn/tags/vk22/"/>
     
     <category term="nec" scheme="https://blog.loliko.cn/tags/nec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>黑苹果固态避坑指南</title>
-    <link href="https://blog.loliko.cn/2022/black-apple-solid-state-pit-guideline/"/>
-    <id>https://blog.loliko.cn/2022/black-apple-solid-state-pit-guideline/</id>
-    <published>2022-04-12T15:51:00.000Z</published>
-    <updated>2023-06-13T07:44:38.719Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;code&gt;三星 PM961 / PM981 / PM981a / PM991&lt;/code&gt; 会导致 macOS 无法安装或正常运行&lt;br&gt;&lt;code&gt;三星 983ZET&lt;/code&gt;无法安装 macOS；&lt;/p&gt;
-&lt;p&gt;2019 年 5 月以前出厂的 &lt;code&gt;三星</summary>
-        
-      
-    
-    
-    
-    
-    <category term="固态" scheme="https://blog.loliko.cn/tags/%E5%9B%BA%E6%80%81/"/>
-    
-    <category term="硬盘" scheme="https://blog.loliko.cn/tags/%E7%A1%AC%E7%9B%98/"/>
-    
-    <category term="macos" scheme="https://blog.loliko.cn/tags/macos/"/>
-    
-    <category term="samsung" scheme="https://blog.loliko.cn/tags/samsung/"/>
     
   </entry>
   
