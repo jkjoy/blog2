@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>提剑追梦</title>
-  <icon>https://blog.loliko.cn/icon.png</icon>
+  <icon>https://jkjoy.cn/icon.png</icon>
   <subtitle>曾梦想仗剑走天涯</subtitle>
-  <link href="https://blog.loliko.cn/atom.xml" rel="self"/>
+  <link href="https://jkjoy.cn/atom.xml" rel="self"/>
   
-  <link href="https://blog.loliko.cn/"/>
-  <updated>2023-06-16T03:04:45.417Z</updated>
-  <id>https://blog.loliko.cn/</id>
+  <link href="https://jkjoy.cn/"/>
+  <updated>2023-06-20T11:50:22.967Z</updated>
+  <id>https://jkjoy.cn/</id>
   
   <author>
     <name>浪子</name>
@@ -18,56 +18,56 @@
   
   <entry>
     <title>LEDE 软路由安装“koolss”离线插件包提示含非法关键字的解决方法</title>
-    <link href="https://blog.loliko.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/"/>
-    <id>https://blog.loliko.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/</id>
+    <link href="https://jkjoy.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/"/>
+    <id>https://jkjoy.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/</id>
     <published>2023-06-16T02:59:36.682Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
     <summary type="html">...</summary>
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="openwrt" scheme="https://blog.loliko.cn/tags/openwrt/"/>
+    <category term="openwrt" scheme="https://jkjoy.cn/tags/openwrt/"/>
     
-    <category term="lede" scheme="https://blog.loliko.cn/tags/lede/"/>
+    <category term="lede" scheme="https://jkjoy.cn/tags/lede/"/>
     
-    <category term="软路由" scheme="https://blog.loliko.cn/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://jkjoy.cn/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
-    <category term="科学上网" scheme="https://blog.loliko.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    <category term="科学上网" scheme="https://jkjoy.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
   </entry>
   
   <entry>
     <title>群晖docker出现注册表无法访问的解决办法</title>
-    <link href="https://blog.loliko.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/"/>
-    <id>https://blog.loliko.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/</id>
+    <link href="https://jkjoy.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/"/>
+    <id>https://jkjoy.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/</id>
     <published>2023-06-15T11:14:38.701Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
     <summary type="html">...</summary>
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="群晖" scheme="https://blog.loliko.cn/tags/%E7%BE%A4%E6%99%96/"/>
+    <category term="群晖" scheme="https://jkjoy.cn/tags/%E7%BE%A4%E6%99%96/"/>
     
-    <category term="docker" scheme="https://blog.loliko.cn/tags/docker/"/>
+    <category term="docker" scheme="https://jkjoy.cn/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>用Memos实现博客的说说页面</title>
-    <link href="https://blog.loliko.cn/2023/use-memos-to-realize-the-blog-talk-page/"/>
-    <id>https://blog.loliko.cn/2023/use-memos-to-realize-the-blog-talk-page/</id>
+    <link href="https://jkjoy.cn/2023/use-memos-to-realize-the-blog-talk-page/"/>
+    <id>https://jkjoy.cn/2023/use-memos-to-realize-the-blog-talk-page/</id>
     <published>2023-06-13T15:57:00.000Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
       
@@ -81,78 +81,78 @@
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="memos" scheme="https://blog.loliko.cn/tags/memos/"/>
+    <category term="memos" scheme="https://jkjoy.cn/tags/memos/"/>
     
-    <category term="Hexo" scheme="https://blog.loliko.cn/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://jkjoy.cn/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>给Memos添加Artalk评论</title>
-    <link href="https://blog.loliko.cn/2023/add-artalk-comments-to-memos/"/>
-    <id>https://blog.loliko.cn/2023/add-artalk-comments-to-memos/</id>
+    <link href="https://jkjoy.cn/2023/add-artalk-comments-to-memos/"/>
+    <id>https://jkjoy.cn/2023/add-artalk-comments-to-memos/</id>
     <published>2023-06-13T06:25:30.714Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
     <summary type="html">...</summary>
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Memos" scheme="https://blog.loliko.cn/tags/Memos/"/>
+    <category term="Memos" scheme="https://jkjoy.cn/tags/Memos/"/>
     
   </entry>
   
   <entry>
     <title>给Memos添加Twikoo评论</title>
-    <link href="https://blog.loliko.cn/2023/add-twikoo-comments-to-memos/"/>
-    <id>https://blog.loliko.cn/2023/add-twikoo-comments-to-memos/</id>
+    <link href="https://jkjoy.cn/2023/add-twikoo-comments-to-memos/"/>
+    <id>https://jkjoy.cn/2023/add-twikoo-comments-to-memos/</id>
     <published>2023-06-13T05:40:54.534Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
     <summary type="html">...</summary>
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Memos" scheme="https://blog.loliko.cn/tags/Memos/"/>
+    <category term="Memos" scheme="https://jkjoy.cn/tags/Memos/"/>
     
-    <category term="Twikoo" scheme="https://blog.loliko.cn/tags/Twikoo/"/>
+    <category term="Twikoo" scheme="https://jkjoy.cn/tags/Twikoo/"/>
     
   </entry>
   
   <entry>
     <title>使用cloudflare Tunnels实现内网穿透</title>
-    <link href="https://blog.loliko.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/"/>
-    <id>https://blog.loliko.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/</id>
+    <link href="https://jkjoy.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/"/>
+    <id>https://jkjoy.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/</id>
     <published>2023-05-18T08:23:20.354Z</published>
-    <updated>2023-06-16T03:04:45.417Z</updated>
+    <updated>2023-06-20T11:50:22.967Z</updated>
     
     
     <summary type="html">...</summary>
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="cloudflare" scheme="https://blog.loliko.cn/tags/cloudflare/"/>
+    <category term="cloudflare" scheme="https://jkjoy.cn/tags/cloudflare/"/>
     
   </entry>
   
   <entry>
     <title>黑群晖DSM918 引导7.1.0镜像分享</title>
-    <link href="https://blog.loliko.cn/2023/black-synological-dsm918-guide-710-mirror-sharing/"/>
-    <id>https://blog.loliko.cn/2023/black-synological-dsm918-guide-710-mirror-sharing/</id>
+    <link href="https://jkjoy.cn/2023/black-synological-dsm918-guide-710-mirror-sharing/"/>
+    <id>https://jkjoy.cn/2023/black-synological-dsm918-guide-710-mirror-sharing/</id>
     <published>2023-04-22T13:29:06.000Z</published>
     <updated>2023-04-22T05:29:11.000Z</updated>
     
@@ -161,21 +161,21 @@
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="黑群晖" scheme="https://blog.loliko.cn/tags/%E9%BB%91%E7%BE%A4%E6%99%96/"/>
+    <category term="黑群晖" scheme="https://jkjoy.cn/tags/%E9%BB%91%E7%BE%A4%E6%99%96/"/>
     
-    <category term="镜像" scheme="https://blog.loliko.cn/tags/%E9%95%9C%E5%83%8F/"/>
+    <category term="镜像" scheme="https://jkjoy.cn/tags/%E9%95%9C%E5%83%8F/"/>
     
-    <category term="DSM918" scheme="https://blog.loliko.cn/tags/DSM918/"/>
+    <category term="DSM918" scheme="https://jkjoy.cn/tags/DSM918/"/>
     
   </entry>
   
   <entry>
     <title>chatgpt3.5的确是进步了很多</title>
-    <link href="https://blog.loliko.cn/2023/chatgpt35-is-indeed-a-lot-improved/"/>
-    <id>https://blog.loliko.cn/2023/chatgpt35-is-indeed-a-lot-improved/</id>
+    <link href="https://jkjoy.cn/2023/chatgpt35-is-indeed-a-lot-improved/"/>
+    <id>https://jkjoy.cn/2023/chatgpt35-is-indeed-a-lot-improved/</id>
     <published>2023-04-15T15:38:39.000Z</published>
     <updated>2023-04-15T07:38:47.000Z</updated>
     
@@ -184,21 +184,21 @@
     
     
     
-    <category term="测试" scheme="https://blog.loliko.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://jkjoy.cn/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="chatgpt" scheme="https://blog.loliko.cn/tags/chatgpt/"/>
+    <category term="chatgpt" scheme="https://jkjoy.cn/tags/chatgpt/"/>
     
-    <category term="测试" scheme="https://blog.loliko.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://jkjoy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>2023国内注册ChatGPT的方法</title>
-    <link href="https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/"/>
-    <id>https://blog.loliko.cn/2023/2023-methods-to-register-chatgpt-in-china/</id>
+    <link href="https://jkjoy.cn/2023/2023-methods-to-register-chatgpt-in-china/"/>
+    <id>https://jkjoy.cn/2023/2023-methods-to-register-chatgpt-in-china/</id>
     <published>2023-04-07T08:34:41.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -212,18 +212,18 @@
     
     
     
-    <category term="chatgpt" scheme="https://blog.loliko.cn/tags/chatgpt/"/>
+    <category term="chatgpt" scheme="https://jkjoy.cn/tags/chatgpt/"/>
     
-    <category term="注册" scheme="https://blog.loliko.cn/tags/%E6%B3%A8%E5%86%8C/"/>
+    <category term="注册" scheme="https://jkjoy.cn/tags/%E6%B3%A8%E5%86%8C/"/>
     
-    <category term="教程" scheme="https://blog.loliko.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://jkjoy.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Qv2ray客户端及内核下载</title>
-    <link href="https://blog.loliko.cn/2023/qv2ray-client-and-kernel-download/"/>
-    <id>https://blog.loliko.cn/2023/qv2ray-client-and-kernel-download/</id>
+    <link href="https://jkjoy.cn/2023/qv2ray-client-and-kernel-download/"/>
+    <id>https://jkjoy.cn/2023/qv2ray-client-and-kernel-download/</id>
     <published>2023-04-07T08:33:27.000Z</published>
     <updated>2023-04-13T07:27:22.000Z</updated>
     
@@ -232,19 +232,19 @@
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="V2RAY" scheme="https://blog.loliko.cn/tags/V2RAY/"/>
+    <category term="V2RAY" scheme="https://jkjoy.cn/tags/V2RAY/"/>
     
-    <category term="梯子" scheme="https://blog.loliko.cn/tags/%E6%A2%AF%E5%AD%90/"/>
+    <category term="梯子" scheme="https://jkjoy.cn/tags/%E6%A2%AF%E5%AD%90/"/>
     
   </entry>
   
   <entry>
     <title>魔趣倒了 安卓的刷机时代正式宣布结束了</title>
-    <link href="https://blog.loliko.cn/2023/the-magic-fun-has-poured-androids-flashing-era-and-officially-announced-end/"/>
-    <id>https://blog.loliko.cn/2023/the-magic-fun-has-poured-androids-flashing-era-and-officially-announced-end/</id>
+    <link href="https://jkjoy.cn/2023/the-magic-fun-has-poured-androids-flashing-era-and-officially-announced-end/"/>
+    <id>https://jkjoy.cn/2023/the-magic-fun-has-poured-androids-flashing-era-and-officially-announced-end/</id>
     <published>2023-01-11T10:15:24.000Z</published>
     <updated>2023-04-13T07:28:45.000Z</updated>
     
@@ -253,23 +253,23 @@
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="魔趣" scheme="https://blog.loliko.cn/tags/%E9%AD%94%E8%B6%A3/"/>
+    <category term="魔趣" scheme="https://jkjoy.cn/tags/%E9%AD%94%E8%B6%A3/"/>
     
-    <category term="安卓" scheme="https://blog.loliko.cn/tags/%E5%AE%89%E5%8D%93/"/>
+    <category term="安卓" scheme="https://jkjoy.cn/tags/%E5%AE%89%E5%8D%93/"/>
     
-    <category term="刷机" scheme="https://blog.loliko.cn/tags/%E5%88%B7%E6%9C%BA/"/>
+    <category term="刷机" scheme="https://jkjoy.cn/tags/%E5%88%B7%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>macOS与Windows双系统时间不同步的解决办法</title>
-    <link href="https://blog.loliko.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/"/>
-    <id>https://blog.loliko.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/</id>
+    <link href="https://jkjoy.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/"/>
+    <id>https://jkjoy.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/</id>
     <published>2022-11-15T13:07:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -284,20 +284,20 @@
     
     
     
-    <category term="macos" scheme="https://blog.loliko.cn/tags/macos/"/>
+    <category term="macos" scheme="https://jkjoy.cn/tags/macos/"/>
     
-    <category term="时间同步" scheme="https://blog.loliko.cn/tags/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/"/>
+    <category term="时间同步" scheme="https://jkjoy.cn/tags/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/"/>
     
-    <category term="windows" scheme="https://blog.loliko.cn/tags/windows/"/>
+    <category term="windows" scheme="https://jkjoy.cn/tags/windows/"/>
     
   </entry>
   
   <entry>
     <title>VK23黑苹果OpenCore0.8.5引导macOS12.6.1</title>
-    <link href="https://blog.loliko.cn/2022/vk23-black-apple-opencore085-guide-macos1261/"/>
-    <id>https://blog.loliko.cn/2022/vk23-black-apple-opencore085-guide-macos1261/</id>
+    <link href="https://jkjoy.cn/2022/vk23-black-apple-opencore085-guide-macos1261/"/>
+    <id>https://jkjoy.cn/2022/vk23-black-apple-opencore085-guide-macos1261/</id>
     <published>2022-11-08T14:23:36.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -316,10 +316,10 @@
   
   <entry>
     <title>NEC VK23T对比体验VK22T</title>
-    <link href="https://blog.loliko.cn/2022/nec-vk23t-comparison-experience-vk22t/"/>
-    <id>https://blog.loliko.cn/2022/nec-vk23t-comparison-experience-vk22t/</id>
+    <link href="https://jkjoy.cn/2022/nec-vk23t-comparison-experience-vk22t/"/>
+    <id>https://jkjoy.cn/2022/nec-vk23t-comparison-experience-vk22t/</id>
     <published>2022-11-08T14:02:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -333,20 +333,20 @@
     
     
     
-    <category term="nec" scheme="https://blog.loliko.cn/tags/nec/"/>
+    <category term="nec" scheme="https://jkjoy.cn/tags/nec/"/>
     
-    <category term="vk23" scheme="https://blog.loliko.cn/tags/vk23/"/>
+    <category term="vk23" scheme="https://jkjoy.cn/tags/vk23/"/>
     
-    <category term="测评" scheme="https://blog.loliko.cn/tags/%E6%B5%8B%E8%AF%84/"/>
+    <category term="测评" scheme="https://jkjoy.cn/tags/%E6%B5%8B%E8%AF%84/"/>
     
   </entry>
   
   <entry>
     <title>华硕b150m-et m2+rx560黑苹果oc0.8.5引导</title>
-    <link href="https://blog.loliko.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/"/>
-    <id>https://blog.loliko.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/</id>
+    <link href="https://jkjoy.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/"/>
+    <id>https://jkjoy.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/</id>
     <published>2022-10-21T14:58:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -364,10 +364,10 @@
   
   <entry>
     <title>office2016 Mac 版本下载安装及破解激活</title>
-    <link href="https://blog.loliko.cn/2022/office2016-mac-version-download-install-crack-activation/"/>
-    <id>https://blog.loliko.cn/2022/office2016-mac-version-download-install-crack-activation/</id>
+    <link href="https://jkjoy.cn/2022/office2016-mac-version-download-install-crack-activation/"/>
+    <id>https://jkjoy.cn/2022/office2016-mac-version-download-install-crack-activation/</id>
     <published>2022-10-14T08:25:18.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -381,19 +381,19 @@
     
     
     
-    <category term="分享" scheme="https://blog.loliko.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="office" scheme="https://blog.loliko.cn/tags/office/"/>
+    <category term="office" scheme="https://jkjoy.cn/tags/office/"/>
     
   </entry>
   
   <entry>
     <title>Typecho插件CommentsByQQ修改版</title>
-    <link href="https://blog.loliko.cn/2022/typecho-plug-in-commentsbyqq-modified-version/"/>
-    <id>https://blog.loliko.cn/2022/typecho-plug-in-commentsbyqq-modified-version/</id>
+    <link href="https://jkjoy.cn/2022/typecho-plug-in-commentsbyqq-modified-version/"/>
+    <id>https://jkjoy.cn/2022/typecho-plug-in-commentsbyqq-modified-version/</id>
     <published>2022-09-19T14:25:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -407,20 +407,20 @@
     
     
     
-    <category term="typecho" scheme="https://blog.loliko.cn/tags/typecho/"/>
+    <category term="typecho" scheme="https://jkjoy.cn/tags/typecho/"/>
     
-    <category term="chajian" scheme="https://blog.loliko.cn/tags/chajian/"/>
+    <category term="chajian" scheme="https://jkjoy.cn/tags/chajian/"/>
     
-    <category term="CommentsByQQ" scheme="https://blog.loliko.cn/tags/CommentsByQQ/"/>
+    <category term="CommentsByQQ" scheme="https://jkjoy.cn/tags/CommentsByQQ/"/>
     
   </entry>
   
   <entry>
     <title>macOS锁屏时钟fliqlo</title>
-    <link href="https://blog.loliko.cn/2022/macos-lock-screen-clock-fliqlo/"/>
-    <id>https://blog.loliko.cn/2022/macos-lock-screen-clock-fliqlo/</id>
+    <link href="https://jkjoy.cn/2022/macos-lock-screen-clock-fliqlo/"/>
+    <id>https://jkjoy.cn/2022/macos-lock-screen-clock-fliqlo/</id>
     <published>2022-08-08T09:14:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -435,20 +435,20 @@
     
     
     
-    <category term="macos" scheme="https://blog.loliko.cn/tags/macos/"/>
+    <category term="macos" scheme="https://jkjoy.cn/tags/macos/"/>
     
-    <category term="下载" scheme="https://blog.loliko.cn/tags/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://jkjoy.cn/tags/%E4%B8%8B%E8%BD%BD/"/>
     
-    <category term="fliqlo" scheme="https://blog.loliko.cn/tags/fliqlo/"/>
+    <category term="fliqlo" scheme="https://jkjoy.cn/tags/fliqlo/"/>
     
   </entry>
   
   <entry>
     <title>macOS一键安装homebrew国内镜像</title>
-    <link href="https://blog.loliko.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/"/>
-    <id>https://blog.loliko.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/</id>
+    <link href="https://jkjoy.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/"/>
+    <id>https://jkjoy.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/</id>
     <published>2022-07-29T15:33:00.000Z</published>
-    <updated>2023-06-16T03:04:45.413Z</updated>
+    <updated>2023-06-20T11:50:22.963Z</updated>
     
     
       
@@ -463,16 +463,16 @@
     
     
     
-    <category term="macos" scheme="https://blog.loliko.cn/tags/macos/"/>
+    <category term="macos" scheme="https://jkjoy.cn/tags/macos/"/>
     
-    <category term="homebrew" scheme="https://blog.loliko.cn/tags/homebrew/"/>
+    <category term="homebrew" scheme="https://jkjoy.cn/tags/homebrew/"/>
     
   </entry>
   
   <entry>
     <title>Linux下本地安装包命令</title>
-    <link href="https://blog.loliko.cn/2022/local-installation-package-command-under-linux/"/>
-    <id>https://blog.loliko.cn/2022/local-installation-package-command-under-linux/</id>
+    <link href="https://jkjoy.cn/2022/local-installation-package-command-under-linux/"/>
+    <id>https://jkjoy.cn/2022/local-installation-package-command-under-linux/</id>
     <published>2022-07-27T10:39:00.000Z</published>
     <updated>2023-04-13T07:32:16.000Z</updated>
     
@@ -481,12 +481,12 @@
     
     
     
-    <category term="Linux" scheme="https://blog.loliko.cn/categories/Linux/"/>
+    <category term="Linux" scheme="https://jkjoy.cn/categories/Linux/"/>
     
     
-    <category term="命令" scheme="https://blog.loliko.cn/tags/%E5%91%BD%E4%BB%A4/"/>
+    <category term="命令" scheme="https://jkjoy.cn/tags/%E5%91%BD%E4%BB%A4/"/>
     
-    <category term="linux" scheme="https://blog.loliko.cn/tags/linux/"/>
+    <category term="linux" scheme="https://jkjoy.cn/tags/linux/"/>
     
   </entry>
   
