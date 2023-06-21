@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>提剑追梦</title>
   <icon>https://jkjoy.cn/icon.png</icon>
-  <subtitle>曾梦想仗剑走天涯</subtitle>
+  <subtitle>一个分享自己生活的博客</subtitle>
   <link href="https://jkjoy.cn/atom.xml" rel="self"/>
   
   <link href="https://jkjoy.cn/"/>
-  <updated>2023-06-20T12:01:59.331Z</updated>
+  <updated>2023-06-21T00:42:36.933Z</updated>
   <id>https://jkjoy.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jkjoy.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/"/>
     <id>https://jkjoy.cn/2023/lede-soft-routing-installation-koolss-offline-plug-in-package-prompts-to-solve-illegal-keywords/</id>
     <published>2023-06-16T02:59:36.682Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
     <summary type="html">...</summary>
@@ -46,7 +46,7 @@
     <link href="https://jkjoy.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/"/>
     <id>https://jkjoy.cn/2023/sck-docker-has-a-solution-that-the-registry-cannot-be-accessed/</id>
     <published>2023-06-15T11:14:38.701Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.937Z</updated>
     
     
     <summary type="html">...</summary>
@@ -67,7 +67,7 @@
     <link href="https://jkjoy.cn/2023/use-memos-to-realize-the-blog-talk-page/"/>
     <id>https://jkjoy.cn/2023/use-memos-to-realize-the-blog-talk-page/</id>
     <published>2023-06-13T15:57:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.937Z</updated>
     
     
       
@@ -95,7 +95,7 @@
     <link href="https://jkjoy.cn/2023/add-artalk-comments-to-memos/"/>
     <id>https://jkjoy.cn/2023/add-artalk-comments-to-memos/</id>
     <published>2023-06-13T06:25:30.714Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.937Z</updated>
     
     
     <summary type="html">...</summary>
@@ -114,7 +114,7 @@
     <link href="https://jkjoy.cn/2023/add-twikoo-comments-to-memos/"/>
     <id>https://jkjoy.cn/2023/add-twikoo-comments-to-memos/</id>
     <published>2023-06-13T05:40:54.534Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.937Z</updated>
     
     
     <summary type="html">...</summary>
@@ -135,7 +135,7 @@
     <link href="https://jkjoy.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/"/>
     <id>https://jkjoy.cn/2023/use-cloudflare-tunnels-to-implement-internal-network-penetration/</id>
     <published>2023-05-18T08:23:20.354Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.937Z</updated>
     
     
     <summary type="html">...</summary>
@@ -198,7 +198,7 @@
     <link href="https://jkjoy.cn/2023/2023-methods-to-register-chatgpt-in-china/"/>
     <id>https://jkjoy.cn/2023/2023-methods-to-register-chatgpt-in-china/</id>
     <published>2023-04-07T08:34:41.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -269,7 +269,7 @@
     <link href="https://jkjoy.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/"/>
     <id>https://jkjoy.cn/2022/macos-and-windows-dual-systems-are-not-synchronized/</id>
     <published>2022-11-15T13:07:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -297,7 +297,7 @@
     <link href="https://jkjoy.cn/2022/vk23-black-apple-opencore085-guide-macos1261/"/>
     <id>https://jkjoy.cn/2022/vk23-black-apple-opencore085-guide-macos1261/</id>
     <published>2022-11-08T14:23:36.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -319,7 +319,7 @@
     <link href="https://jkjoy.cn/2022/nec-vk23t-comparison-experience-vk22t/"/>
     <id>https://jkjoy.cn/2022/nec-vk23t-comparison-experience-vk22t/</id>
     <published>2022-11-08T14:02:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -346,7 +346,7 @@
     <link href="https://jkjoy.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/"/>
     <id>https://jkjoy.cn/2022/asus-b150met-m2rx560-black-apple-oc085-guide/</id>
     <published>2022-10-21T14:58:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -367,7 +367,7 @@
     <link href="https://jkjoy.cn/2022/office2016-mac-version-download-install-crack-activation/"/>
     <id>https://jkjoy.cn/2022/office2016-mac-version-download-install-crack-activation/</id>
     <published>2022-10-14T08:25:18.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -393,7 +393,7 @@
     <link href="https://jkjoy.cn/2022/typecho-plug-in-commentsbyqq-modified-version/"/>
     <id>https://jkjoy.cn/2022/typecho-plug-in-commentsbyqq-modified-version/</id>
     <published>2022-09-19T14:25:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -420,7 +420,7 @@
     <link href="https://jkjoy.cn/2022/macos-lock-screen-clock-fliqlo/"/>
     <id>https://jkjoy.cn/2022/macos-lock-screen-clock-fliqlo/</id>
     <published>2022-08-08T09:14:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
@@ -448,7 +448,7 @@
     <link href="https://jkjoy.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/"/>
     <id>https://jkjoy.cn/2022/macos-one-click-installation-homebrew-domestic-mirror/</id>
     <published>2022-07-29T15:33:00.000Z</published>
-    <updated>2023-06-20T12:01:59.331Z</updated>
+    <updated>2023-06-21T00:42:36.933Z</updated>
     
     
       
