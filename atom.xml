@@ -6,7 +6,7 @@
   <link href="https://jkjoy.cn/atom.xml" rel="self"/>
   
   <link href="https://jkjoy.cn/"/>
-  <updated>2023-07-07T10:56:16.872Z</updated>
+  <updated>2023-07-07T11:03:08.594Z</updated>
   <id>https://jkjoy.cn/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>群晖CPU和内存占满的排查记录</title>
+    <link href="https://jkjoy.cn/2023/bc338f20.html"/>
+    <id>https://jkjoy.cn/2023/bc338f20.html</id>
+    <published>2023-07-07T15:57:00.000Z</published>
+    <updated>2023-07-07T11:03:08.594Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://jkjoy.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="群晖" scheme="https://jkjoy.cn/tags/%E7%BE%A4%E6%99%96/"/>
+    
+  </entry>
+  
+  <entry>
     <title>LEDE 软路由安装“koolss”离线插件包提示含非法关键字的解决方法</title>
     <link href="https://jkjoy.cn/2023/1c81ee10.html"/>
     <id>https://jkjoy.cn/2023/1c81ee10.html</id>
     <published>2023-06-16T02:59:36.682Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
     <summary type="html">...</summary>
@@ -46,7 +71,7 @@
     <link href="https://jkjoy.cn/2023/63a51e75.html"/>
     <id>https://jkjoy.cn/2023/63a51e75.html</id>
     <published>2023-06-15T11:14:38.701Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.594Z</updated>
     
     
     <summary type="html">...</summary>
@@ -67,7 +92,7 @@
     <link href="https://jkjoy.cn/2023/61795a18.html"/>
     <id>https://jkjoy.cn/2023/61795a18.html</id>
     <published>2023-06-13T15:57:00.000Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.594Z</updated>
     
     
       
@@ -95,7 +120,7 @@
     <link href="https://jkjoy.cn/2023/8828c81e.html"/>
     <id>https://jkjoy.cn/2023/8828c81e.html</id>
     <published>2023-06-13T06:25:30.714Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.594Z</updated>
     
     
     <summary type="html">...</summary>
@@ -114,7 +139,7 @@
     <link href="https://jkjoy.cn/2023/507a5d86.html"/>
     <id>https://jkjoy.cn/2023/507a5d86.html</id>
     <published>2023-06-13T05:40:54.534Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.594Z</updated>
     
     
     <summary type="html">...</summary>
@@ -135,7 +160,7 @@
     <link href="https://jkjoy.cn/2023/6d58ffa9.html"/>
     <id>https://jkjoy.cn/2023/6d58ffa9.html</id>
     <published>2023-05-18T08:23:20.354Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.594Z</updated>
     
     
     <summary type="html">...</summary>
@@ -198,7 +223,7 @@
     <link href="https://jkjoy.cn/2023/156e4c13.html"/>
     <id>https://jkjoy.cn/2023/156e4c13.html</id>
     <published>2023-04-07T08:34:41.000Z</published>
-    <updated>2023-07-07T10:56:16.872Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -269,7 +294,7 @@
     <link href="https://jkjoy.cn/2022/88405098.html"/>
     <id>https://jkjoy.cn/2022/88405098.html</id>
     <published>2022-11-15T13:07:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -297,7 +322,7 @@
     <link href="https://jkjoy.cn/2022/e61e410b.html"/>
     <id>https://jkjoy.cn/2022/e61e410b.html</id>
     <published>2022-11-08T14:23:36.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -319,7 +344,7 @@
     <link href="https://jkjoy.cn/2022/ee234ca2.html"/>
     <id>https://jkjoy.cn/2022/ee234ca2.html</id>
     <published>2022-11-08T14:02:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -346,7 +371,7 @@
     <link href="https://jkjoy.cn/2022/f4d722c5.html"/>
     <id>https://jkjoy.cn/2022/f4d722c5.html</id>
     <published>2022-10-21T14:58:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -367,7 +392,7 @@
     <link href="https://jkjoy.cn/2022/1387fd73.html"/>
     <id>https://jkjoy.cn/2022/1387fd73.html</id>
     <published>2022-10-14T08:25:18.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -393,7 +418,7 @@
     <link href="https://jkjoy.cn/2022/93a53ee.html"/>
     <id>https://jkjoy.cn/2022/93a53ee.html</id>
     <published>2022-09-19T14:25:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -420,7 +445,7 @@
     <link href="https://jkjoy.cn/2022/342aa622.html"/>
     <id>https://jkjoy.cn/2022/342aa622.html</id>
     <published>2022-08-08T09:14:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -448,7 +473,7 @@
     <link href="https://jkjoy.cn/2022/d701f25.html"/>
     <id>https://jkjoy.cn/2022/d701f25.html</id>
     <published>2022-07-29T15:33:00.000Z</published>
-    <updated>2023-07-07T10:56:16.868Z</updated>
+    <updated>2023-07-07T11:03:08.590Z</updated>
     
     
       
@@ -466,27 +491,6 @@
     <category term="macos" scheme="https://jkjoy.cn/tags/macos/"/>
     
     <category term="homebrew" scheme="https://jkjoy.cn/tags/homebrew/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux下本地安装包命令</title>
-    <link href="https://jkjoy.cn/2022/68647b75.html"/>
-    <id>https://jkjoy.cn/2022/68647b75.html</id>
-    <published>2022-07-27T10:39:00.000Z</published>
-    <updated>2023-04-13T07:32:16.000Z</updated>
-    
-    
-    <summary type="html">centos下安装RPM安装包 bash sudo yum localinstall file.rpm ubuntu下安装deb安装包 bash  sudo dpkg -i 安装包名称.deb </summary>
-    
-    
-    
-    <category term="Linux" scheme="https://jkjoy.cn/categories/Linux/"/>
-    
-    
-    <category term="命令" scheme="https://jkjoy.cn/tags/%E5%91%BD%E4%BB%A4/"/>
-    
-    <category term="linux" scheme="https://jkjoy.cn/tags/linux/"/>
     
   </entry>
   
