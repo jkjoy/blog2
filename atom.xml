@@ -6,7 +6,7 @@
   <link href="https://jkjoy.cn/atom.xml" rel="self"/>
   
   <link href="https://jkjoy.cn/"/>
-  <updated>2023-08-11T11:10:17.436Z</updated>
+  <updated>2023-08-15T00:42:37.326Z</updated>
   <id>https://jkjoy.cn/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在fly.io部署artalk评论系统</title>
+    <link href="https://jkjoy.cn/2023/c80a64e9.html"/>
+    <id>https://jkjoy.cn/2023/c80a64e9.html</id>
+    <published>2023-08-15T09:37:00.000Z</published>
+    <updated>2023-08-15T00:42:37.326Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;众所周知Fly.io是一个免费的SAAS平台&lt;br&gt;提供三个内存为256MB,总3G硬盘空间.&lt;br&gt;为纺织滥用,需要绑定信用卡.&lt;/p&gt;
+&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="推荐" scheme="https://jkjoy.cn/categories/%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="artalk" scheme="https://jkjoy.cn/tags/artalk/"/>
+    
+  </entry>
+  
+  <entry>
     <title>使用 Docker 构建 Pleroma 实例</title>
     <link href="https://jkjoy.cn/2023/e48ebe86.html"/>
     <id>https://jkjoy.cn/2023/e48ebe86.html</id>
     <published>2023-07-24T21:57:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -48,7 +74,7 @@
     <link href="https://jkjoy.cn/2023/bc338f20.html"/>
     <id>https://jkjoy.cn/2023/bc338f20.html</id>
     <published>2023-07-07T15:57:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -73,7 +99,7 @@
     <link href="https://jkjoy.cn/2023/1c81ee10.html"/>
     <id>https://jkjoy.cn/2023/1c81ee10.html</id>
     <published>2023-06-16T02:59:36.682Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
     <summary type="html">...</summary>
@@ -98,7 +124,7 @@
     <link href="https://jkjoy.cn/2023/63a51e75.html"/>
     <id>https://jkjoy.cn/2023/63a51e75.html</id>
     <published>2023-06-15T11:14:38.701Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
     <summary type="html">...</summary>
@@ -119,7 +145,7 @@
     <link href="https://jkjoy.cn/2023/61795a18.html"/>
     <id>https://jkjoy.cn/2023/61795a18.html</id>
     <published>2023-06-13T15:57:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -147,7 +173,7 @@
     <link href="https://jkjoy.cn/2023/8828c81e.html"/>
     <id>https://jkjoy.cn/2023/8828c81e.html</id>
     <published>2023-06-13T06:25:30.714Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
     <summary type="html">...</summary>
@@ -166,7 +192,7 @@
     <link href="https://jkjoy.cn/2023/507a5d86.html"/>
     <id>https://jkjoy.cn/2023/507a5d86.html</id>
     <published>2023-06-13T05:40:54.534Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
     <summary type="html">...</summary>
@@ -187,7 +213,7 @@
     <link href="https://jkjoy.cn/2023/6d58ffa9.html"/>
     <id>https://jkjoy.cn/2023/6d58ffa9.html</id>
     <published>2023-05-18T08:23:20.354Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
     <summary type="html">...</summary>
@@ -250,7 +276,7 @@
     <link href="https://jkjoy.cn/2023/156e4c13.html"/>
     <id>https://jkjoy.cn/2023/156e4c13.html</id>
     <published>2023-04-07T08:34:41.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -321,7 +347,7 @@
     <link href="https://jkjoy.cn/2022/88405098.html"/>
     <id>https://jkjoy.cn/2022/88405098.html</id>
     <published>2022-11-15T13:07:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -349,7 +375,7 @@
     <link href="https://jkjoy.cn/2022/e61e410b.html"/>
     <id>https://jkjoy.cn/2022/e61e410b.html</id>
     <published>2022-11-08T14:23:36.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -371,7 +397,7 @@
     <link href="https://jkjoy.cn/2022/ee234ca2.html"/>
     <id>https://jkjoy.cn/2022/ee234ca2.html</id>
     <published>2022-11-08T14:02:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -398,7 +424,7 @@
     <link href="https://jkjoy.cn/2022/f4d722c5.html"/>
     <id>https://jkjoy.cn/2022/f4d722c5.html</id>
     <published>2022-10-21T14:58:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -419,7 +445,7 @@
     <link href="https://jkjoy.cn/2022/1387fd73.html"/>
     <id>https://jkjoy.cn/2022/1387fd73.html</id>
     <published>2022-10-14T08:25:18.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -445,7 +471,7 @@
     <link href="https://jkjoy.cn/2022/93a53ee.html"/>
     <id>https://jkjoy.cn/2022/93a53ee.html</id>
     <published>2022-09-19T14:25:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
+    <updated>2023-08-15T00:42:37.326Z</updated>
     
     
       
@@ -464,34 +490,6 @@
     <category term="chajian" scheme="https://jkjoy.cn/tags/chajian/"/>
     
     <category term="CommentsByQQ" scheme="https://jkjoy.cn/tags/CommentsByQQ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS锁屏时钟fliqlo</title>
-    <link href="https://jkjoy.cn/2022/342aa622.html"/>
-    <id>https://jkjoy.cn/2022/342aa622.html</id>
-    <published>2022-08-08T09:14:00.000Z</published>
-    <updated>2023-08-11T11:10:17.436Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;一款好看的锁屏时钟&lt;br&gt;同时也有Windows版本可以下载&lt;/p&gt;
-&lt;h2 id=&quot;截图&quot;&gt;&lt;a href=&quot;#截图&quot; class=&quot;headerlink&quot; title=&quot;截图&quot;&gt;&lt;/a&gt;截图&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="macos" scheme="https://jkjoy.cn/tags/macos/"/>
-    
-    <category term="下载" scheme="https://jkjoy.cn/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
-    <category term="fliqlo" scheme="https://jkjoy.cn/tags/fliqlo/"/>
     
   </entry>
   
